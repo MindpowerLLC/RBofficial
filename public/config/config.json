@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6a16e367ccd82303b0b10576691fad8de9c1f312",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6a16e367ccd82303b0b10576691fad8de9c1f312",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rude Birds Official",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.035,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rude-birds-official",
+  "SHOW_BACKGROUND": true
+}
