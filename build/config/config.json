@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x109a42C0dEFcbC49C43649097aC1c62c6230a300",
+  "SCAN_LINK": "https://polygonscan.com/address/0x109a42C0dEFcbC49C43649097aC1c62c6230a300",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rude Birds Official",
+  "SYMBOL": "RBOnfts",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": "150 Polygon",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rude-birds-official-1",
+  "SHOW_BACKGROUND": true
+}
